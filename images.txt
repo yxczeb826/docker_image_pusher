@@ -1,1 +1,1 @@
---platform linux/arm64 lkw199711/smanga:latest
+lovechen/embyserver:latest
